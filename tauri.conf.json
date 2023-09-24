@@ -6,7 +6,7 @@
     "distDir": "dist"
   },
   "package": {
-    "productName": "rust-tauri-chatgpt-work",
+    "productName": "tauri-chatgpt-work",
     "version": "0.1.0"
   },
   "tauri": {
@@ -39,12 +39,13 @@
       },
       "resources": [],
       "shortDescription": "",
-      "targets": "all",
+      "targets": "winit",
       "windows": {
         "certificateThumbprint": null,
         "digestAlgorithm": "sha256",
         "timestampUrl": ""
       }
+      
     },
     "security": {
       "csp": null
