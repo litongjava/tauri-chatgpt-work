@@ -59,7 +59,9 @@
         "resizable": true,
         "title": "ChatGPT Work",
         "width": 1500,
-        "url": "https://chat.openai.com/"
+        "url": "https://chat.openai.com/",
+        "x": 100,
+        "y": 0
       }
     ]
   }
